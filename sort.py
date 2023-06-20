@@ -1,4 +1,4 @@
-import shutil, sys
+import shutil, sys, os
 from pathlib import Path
 
 DIR_SORT = Path(sys.argv[1])
